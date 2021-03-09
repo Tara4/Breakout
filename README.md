@@ -1,2 +1,2 @@
 # Breakout
-A recreation of Breakout made using C# and Unity
+A recreation of the game Breakout made using C# and Unity
